@@ -77,8 +77,10 @@ a {
 
 .note.list .item,
 .article-container {
-  background-color: #393e46;
-  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, .2);
+  background-color: #222831;
+  box-shadow:  -12px 12px 20px #1d2229, 
+             12px -12px 20px #272e39;
+  /* box-shadow: 0 12px 16px 0 rgba(0, 0, 0, .2); */
 }
 
 @media (max-width: 500px) {
